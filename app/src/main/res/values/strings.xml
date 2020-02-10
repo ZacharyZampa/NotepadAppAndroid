@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotepadApp</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="addNoteHint">Your note here</string>
+</resources>
